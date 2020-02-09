@@ -13,7 +13,7 @@
 <body>
 
 
-<a href="/img/1.jpg">图片1</a>
+<a href="/img/2.jpg">图片1</a>
 
 <a href="/img/1.avi">视频</a>
 <hr>
