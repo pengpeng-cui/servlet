@@ -47,7 +47,7 @@ public class CookieDemo3 extends HttpServlet {
                     value = URLDecoder.decode(value,"utf-8");
                     currentDate = URLDecoder.decode(currentDate,"utf-8");
                     System.out.println("1-----"+value);
-                    response.getWriter().write("<h1>欢迎回来，上次访问的时间是"+value+"<br> 欢迎回来,本次使用时间为"+currentDate+"</h1>");
+                    response.getWriter().write("<h1>欢迎回来，上次访问的时间是"+value+"<br> 欢迎回来, 本次使用时间为"+currentDate+"</h1>");
                 }
 
 
